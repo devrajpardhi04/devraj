@@ -1,4 +1,4 @@
 # Learning GitHub
 This is my first Git Reopsitory
 <br>
-Author-Devraj Pardhi
+Author-Devraj Satish Pardhi
